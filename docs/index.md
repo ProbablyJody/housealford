@@ -1,3 +1,3 @@
 ---
 ---
-## Wishlists
+## Wish Lists
