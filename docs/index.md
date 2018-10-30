@@ -1,3 +1,3 @@
 ---
 ---
-## Wish Lists
+## [Wish Lists](./wishlists)
